@@ -8,6 +8,6 @@ public class adding43 {
 		{
 			sum=sum+a[i];
 		}
-		System.out.println("the sum of elements="+sum);	
+		System.out.println("Bhupesh the sum of all elements="+sum);	
 	}
 }
